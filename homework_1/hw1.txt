@@ -29,4 +29,10 @@ Problem 2: Inverse vs. Forward Problems
 Problem 3: Git and Github
 1. 
 - Created Repo
-- 
+- Created Logo
+- Created 
+- Created
+2.
+- Make merge conflict
+3. 
+git restore:
