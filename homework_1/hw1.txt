@@ -1,0 +1,10 @@
+Homework 1 Answers
+
+1. FALSE: Stochastic models will not always produce the same output x given the same input parameters 0. 
+Rather unlike deterministic models, where outcomes are fully determined by the input parameters and inital
+conditions, stochastic models produce a range of possible outcomes, each with a certain probability.
+
+2. FALSE: Replicability refers to obtaining consistent results by conducting a new study with
+different data under similar conditions. While reporducibility refers to obtaining consisten result susin the same data nd analysis methods.
+
+3.
