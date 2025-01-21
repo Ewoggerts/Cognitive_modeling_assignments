@@ -24,3 +24,9 @@ Problem 2: Inverse vs. Forward Problems
 - Forward problem 2: You are analyzing the prey and predator ratio. You know the birth rate of the prey and you know how many prey a predator consumes. You are then able to predict the predator prey ratio in the future.
 - Forward problem 3: You know that rate of emissions per new vehicle and the rate of which new vehicles are purchased and old vehicles junked. This allows you to predict future emissions released into the atmosphere.
 - Reverse problem 1:
+
+----------------------------------------------------------------------------------------
+Problem 3: Git and Github
+1. 
+- Created Repo
+- 
