@@ -25,13 +25,17 @@ Problem 2: Inverse vs. Forward Problems
 - Forward problem 3: You know that rate of emissions per new vehicle and the rate of which new vehicles are purchased and old vehicles junked. This allows you to predict future emissions released into the atmosphere.
 - Reverse problem 1:
 
+- Reverse problem 2:
+
+- Reverse problem 3:
+
 ----------------------------------------------------------------------------------------
 Problem 3: Git and Github
 1. 
 - Created Repo
 - Created Logo
-- Created 
-- Created
+- Created Created readme	
+- Created Updated readme with proper brief and logo formatted
 2.
 - Make merge conflict
 3. 
