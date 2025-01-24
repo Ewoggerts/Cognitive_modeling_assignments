@@ -6,7 +6,7 @@ def monte_carlo_sim(total_points):
     x = np.random.uniform(-1, 1, total_points)
     y = np.random.uniform(-1, 1, total_points)
     dist = x**2 + y**2
-    inside_circle = np.sum(distances <= 1)
+    inside_circle = np.sum(dist <= 1)
     ratio = (inside_circle/total_points)
     pi_approx = ratio * 4
     print("Ratio: ", ratio, "PI Approx: ", pi_approx)
