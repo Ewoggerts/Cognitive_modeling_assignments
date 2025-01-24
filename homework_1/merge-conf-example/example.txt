@@ -2,3 +2,4 @@ Line 1
 line 2
 merge-conf line 3 conflicting cause
 
+Branch1 Line 3
