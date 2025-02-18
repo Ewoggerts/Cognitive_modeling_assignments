@@ -11,5 +11,5 @@ dependencies:
     - scipy >= 1.15.1
     - ipython >= 8.26.0
     - notebook >= 7.3.2
-    - pystan 3.10.0
+    - pystan == 3.10.0
     - tensorflow >= 2.18.0
