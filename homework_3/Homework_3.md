@@ -1,3 +1,9 @@
+# Repo Link:
+
+https://github.com/Ewoggerts/Cognitive_modeling_assignments/tree/main
+
+---
+
 # Problem 1: True-False Questions (5 points)
 
 1. **True.** When the stochastic integral is computed it is equal to \( u(W_t - W_0) \).  
@@ -32,7 +38,7 @@
 
 # Problem 2: Diffusion Model Explorations (8 points)
 
-*ipynb code*
+https://github.com/Ewoggerts/Cognitive_modeling_assignments/blob/main/homework_3/problem_2.ipynb
 
 ---
 
@@ -63,3 +69,21 @@
 \[
 \text{Var}[\theta] \quad \text{(By definition of variance in terms of expected value)}
 \]
+
+---
+
+# Problem 4: Normal Normal Model (4 points)
+
+https://github.com/Ewoggerts/Cognitive_modeling_assignments/blob/main/homework_3/Q4.ipynb
+
+---
+
+# Problem 5: Simple Bayesian Regression with Stan (6 points)
+
+https://github.com/Ewoggerts/Cognitive_modeling_assignments/blob/main/homework_3/Q5.ipynb
+
+---
+
+# Problem 6: Estimating the Drift-Diffusion Model (8 points)
+
+https://github.com/Ewoggerts/Cognitive_modeling_assignments/blob/main/homework_3/Q6.ipynb
