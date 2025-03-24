@@ -20,7 +20,7 @@ $$
 \sigma^2 t 
 $$
 
-   If \sigma = 1, the variance is t .
+   If $$\sigma$$ = 1, the variance is t .
 
 3. **False.** The drift diffusion model is continuous. It assumes a continuous  
    accumulation of evidence, not discrete chunks.
