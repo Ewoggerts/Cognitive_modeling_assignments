@@ -31,7 +31,7 @@
 ---
 
 ## Problem 2: In python nb
-[](homework_4/problem2.ipynb)
+homework_4/problem2.ipynb
 
 ---
 
