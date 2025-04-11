@@ -31,7 +31,7 @@
 ---
 
 ## Problem 2: In python nb
-[Link to problem 2](homework_4/problem2.ipynb)
+[Link to problem 2](problem2.ipynb)
 
 ---
 
