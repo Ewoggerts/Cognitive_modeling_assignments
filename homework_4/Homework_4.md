@@ -4,6 +4,10 @@
 **Homework #4:**  
 **4/10/2025**
 
+# Repo Link:
+
+https://github.com/Ewoggerts/Cognitive_modeling_assignments/tree/main
+
 ---
 
 ## Problem 1: True - False Questions (5 points)
@@ -20,14 +24,30 @@
 
 ---
 
-## Problem 2: [Title] (X points)
+## Problem 2: Simple Multinomial Processing Trees (MPTs) (10 points)
 
-[Write your answer here]
+[???????]
+
+---
+
+## Problem 3: [Multiple Regression] (8 points)
+
+https://github.com/Ewoggerts/Cognitive_modeling_assignments/blob/main/homework_4/Q3.ipynb
 
 ---
 
-## Problem 3: [Title] (X points)
+## Problem 4: Predictive Distribution (5 points)
 
-[Write your answer here]
+https://github.com/Ewoggerts/Cognitive_modeling_assignments/blob/main/homework_4/Q4.ipynb
 
 ---
+
+## Reflection (4 points)
+
+[?????]
+
+---
+
+## Problem 6: Project Pre-Study (6 points)
+
+[????????]
