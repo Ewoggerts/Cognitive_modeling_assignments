@@ -22,7 +22,13 @@ https://github.com/Ewoggerts/Cognitive_modeling_assignments/tree/main
 
 5. **True.** Bayesian leave-one-out cross-validation (LOO-CV) is when you remove one data point from the dataset and train the model on the remaining data. Then, that trained model will try and predict the removed data point. The trained model is based on the posterior (data). This process is repeated for every data point in the dataset and aggregated for the prediction errors. This process gives an estimate of how well the model generalizes for all data points.
 
-6. **False.** The formula for AIC is \( 2k - 2 \ln(L) \). \( k \) represents the number of parameters and \( L \) is the maximum likelihood of the model. You want a lower AIC, which means fewer parameters and a higher likelihood from your model. It doesn't require the variance of the model to determine its AIC.
+6. **False.** The formula for AIC is 
+
+$$
+\( 2k - 2 \ln(L) \). \( k \)
+$$
+
+represents the number of parameters and \( L \) is the maximum likelihood of the model. You want a lower AIC, which means fewer parameters and a higher likelihood from your model. It doesn't require the variance of the model to determine its AIC.
 
 7. **False.** It is the log of the predictive probability that is used to evaluate how well a model predicts new data, not complexity.
 
@@ -34,13 +40,13 @@ https://github.com/Ewoggerts/Cognitive_modeling_assignments/tree/main
 
 ---
 
-## Problem 2: In python nb
+## Problem 2: Simple Multinomial Processing Trees (MPTs) (10 points)
 
 https://github.com/Ewoggerts/Cognitive_modeling_assignments/blob/main/homework_4/problem2.ipynb
 
 ---
 
-## Problem 3: [Multiple Regression] (8 points)
+## Problem 3: Multiple Regression (8 points)
 
 https://github.com/Ewoggerts/Cognitive_modeling_assignments/blob/main/homework_4/Q3.ipynb
 
