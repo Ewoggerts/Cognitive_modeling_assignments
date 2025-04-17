@@ -35,7 +35,8 @@ https://github.com/Ewoggerts/Cognitive_modeling_assignments/tree/main
 ---
 
 ## Problem 2: In python nb
-[Link to problem 2](problem2.ipynb)
+
+https://github.com/Ewoggerts/Cognitive_modeling_assignments/blob/main/homework_4/problem2.ipynb
 
 ---
 
