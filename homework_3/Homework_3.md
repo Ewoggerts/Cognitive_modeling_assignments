@@ -1,10 +1,26 @@
+# Repo Link:
+
+https://github.com/Ewoggerts/Cognitive_modeling_assignments/tree/main
+
+---
+
 # Problem 1: True-False Questions (5 points)
 
-1. **True.** When the stochastic integral is computed it is equal to \( u(W_t - W_0) \).  
-   Since \( W_t \) and \( W_0 \) are random variables, the entire expression \( u(W_t - W_0) \) is a random variable.
+1. **True.** When the stochastic integral is computed it is equal to 
 
-2. **False.** The variance of a Wiener process is given by the equation \( \sigma^2 t \).  
-   If \( \sigma = 1 \), the variance is \( t \).
+$$ 
+u(W_t - W_0) 
+$$
+
+   Since W_t and W_0 are random variables, the entire expression u(W_t - W_0) is a random variable.
+
+2. **False.** The variance of a Wiener process is given by the equation 
+
+$$ 
+\sigma^2 t 
+$$
+
+   If $$\sigma$$ = 1, the variance is t .
 
 3. **False.** The drift diffusion model is continuous. It assumes a continuous  
    accumulation of evidence, not discrete chunks.
@@ -32,34 +48,52 @@
 
 # Problem 2: Diffusion Model Explorations (8 points)
 
-*ipynb code*
+https://github.com/Ewoggerts/Cognitive_modeling_assignments/blob/main/homework_3/problem_2.ipynb
 
 ---
 
 # Problem 3: Prior and Posterior Variance (4 points)
 
-\[
+$$
 \text{Var}[\theta] = E[\text{Var}[\theta | y]] + \text{Var}[E[\theta | y]] \quad \text{(Given)}
-\]
+$$
 
-\[
+$$
 \text{Var}[\theta] = E[E[\theta^2 | y] - (E[\theta | y])^2] + E[(E[\theta | y])^2] - (E[E(\theta | y)]^2)
-\]
+$$
 
-*Expanding using the variance formula: \( E[X^2] - (E[X])^2 \)*  
+*Expanding using the variance formula: $ E[X^2] - (E[X])^2 $*  
 
-\[
+$$
 \text{Var}[\theta] = E[E[\theta^2 | y] - (E[\theta | y])^2]
-\]
+$$
 
 *Simplified via the linearity of expectation and canceled out terms*  
 
-\[
+$$
 \text{Var}[\theta] = E[\theta^2] - (E[\theta])^2
-\]
+$$
 
 *Law of total expectation*  
 
-\[
+$$
 \text{Var}[\theta] \quad \text{(By definition of variance in terms of expected value)}
-\]
+$$
+
+---
+
+# Problem 4: Normal Normal Model (4 points)
+
+https://github.com/Ewoggerts/Cognitive_modeling_assignments/blob/main/homework_3/Q4.ipynb
+
+---
+
+# Problem 5: Simple Bayesian Regression with Stan (6 points)
+
+https://github.com/Ewoggerts/Cognitive_modeling_assignments/blob/main/homework_3/Q5.ipynb
+
+---
+
+# Problem 6: Estimating the Drift-Diffusion Model (8 points)
+
+https://github.com/Ewoggerts/Cognitive_modeling_assignments/blob/main/homework_3/Q6.ipynb
